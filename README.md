@@ -17,7 +17,7 @@ This project entails a web application that estimates the probability of a credi
 
 ## Installation
 
-### 1.Clone the Repository:
+### 1. Clone the Repository:
 ```bash
 git clone https://github.com/yourusername/credit-card-default-prediction.git && cd credit-card-default-prediction
 ```
