@@ -31,4 +31,5 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-Open your web browser and navigate to http://localhost:5000. Complete the form with the necessary information and submit it to receive the prediction.
+### 3. Open your web browser and navigate to http://localhost:5000.
+### 4. Complete the form with the necessary information and submit it to receive the prediction.
