@@ -39,3 +39,12 @@ pip install -r requirements.txt
 
 4. Complete the form with the necessary information and submit it to receive the prediction.
 
+## Model Information
+
+This project utilizes a [type of model, e.g., Random Forest Classifier] trained on historical credit card data. The model evaluates factors such as credit limit, payment history, bill amounts, and personal information to predict the likelihood of a default.
+
+```bash
+
+Make sure to replace `[type of model, e.g., Random Forest Classifier]` with the specific model type you used in your project before saving the file.
+```
+
