@@ -25,11 +25,13 @@ git clone https://github.com/yourusername/credit-card-default-prediction.git && 
 ```bash
 pip install -r requirements.txt
 ```
-## Usage:
-1. Ensure the trained model (clf2.pkl) and scaler (train_scaler.pkl) are located in the models/ directory.
+## Usage
+
+1. Ensure the trained model (`clf2.pkl`) and scaler (`train_scaler.pkl`) are located in the `models/` directory.
 2. Start the Flask application:
-```bash
-python main.py
-```
-### 3. Open your web browser and navigate to http://localhost:5000.
-### 4. Complete the form with the necessary information and submit it to receive the prediction.
+    ```bash
+    python main.py
+    ```
+3. Open your web browser and navigate to `http://localhost:5000`.
+4. Complete the form with the necessary information and submit it to receive the prediction.
+
