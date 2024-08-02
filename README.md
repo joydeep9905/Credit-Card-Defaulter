@@ -44,6 +44,4 @@ This project is a web application that predicts the likelihood of a credit card 
 ## Model Information
 The prediction model used in this project is a [type of model, e.g., Random Forest Classifier] trained on historical credit card data. It takes into account factors such as credit limit, payment history, bill amounts, and personal information to predict the likelihood of default.
 
-## Contributing
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
-Project Link: [https://github.com/SudeeptaGiri/CreditCard-Defaulter-Analysis.git](https://github.com/SudeeptaGiri/CreditCard-Defaulter-Analysis.git)
+
